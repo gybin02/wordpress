@@ -30,3 +30,8 @@ http://www.5kym.com/yuanma/php_source/2324.html
 极致泛站群系统V6.0高级版+自动更新+随机模板价值1180元
 ### MAMP
 - MySql 密码,Root root;
+
+### 安装
+- 1.我们在浏览器中打开http://你的网址/install/index.php 
+- 2. 进入管理后台- 数据库还原， 还原数据；
+- 3. 删除备份等；
