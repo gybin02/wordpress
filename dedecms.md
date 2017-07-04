@@ -28,3 +28,5 @@ http://www.5kym.com/other_source/qita/2337.html
 
 http://www.5kym.com/yuanma/php_source/2324.html
 极致泛站群系统V6.0高级版+自动更新+随机模板价值1180元
+### MAMP
+- MySql 密码,Root root;
