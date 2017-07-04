@@ -35,3 +35,11 @@ http://www.5kym.com/yuanma/php_source/2324.html
 - 1.我们在浏览器中打开http://你的网址/install/index.php 
 - 2. 进入管理后台- 数据库还原， 还原数据；
 - 3. 删除备份等；
+
+
+### 官网实现
+- 参考百度云市场：
+
+- 参考介绍：
+https://cloud.baidu.com/market/detail/085b13e7-0e25-4ea6-84c4-e9e6f6ce364f
+https://cloud.baidu.com/market/detail/085b13e7-0e25-4ea6-84c4-e9e6f6ce364f
