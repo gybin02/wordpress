@@ -16,3 +16,6 @@ http://www.wplocker.com/
 - YITH WooCommerce Compare, 
 - YITH WooCommerce Wishlist 
 - YITH WooCommerce Zoom Magnifier.
+
+
+honmu.org .协会
