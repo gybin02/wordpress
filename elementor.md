@@ -6,3 +6,4 @@
 
 3. 搭配插件：  mega menu， 修改 menu 样式
 
+MetaSlider 创建 幻灯片
