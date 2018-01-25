@@ -20,3 +20,7 @@ MetaSlider 创建 幻灯片
 
 ## 列表页 主题
 - Blog Designer
+
+
+### Simple Job Board
+招聘 功能
