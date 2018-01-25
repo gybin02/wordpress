@@ -9,8 +9,11 @@
 MetaSlider 创建 幻灯片
 
 
-### 主题
-- Astra  https://wpastra.com/
+###  首页主题 Or Search page builder
+- Astra  https://wpastra.com/
 - GeneratePress
 - Hestia  （little show）
-- 
+- Flexia
+
+## 列表页 主题
+- Blog Designer
