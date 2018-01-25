@@ -24,3 +24,7 @@ MetaSlider 创建 幻灯片
 
 ### Simple Job Board
 招聘 功能
+
+### Custom Taxonomy Template
+
+### Custom Post Templat
