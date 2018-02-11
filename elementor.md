@@ -1,3 +1,6 @@
+# 插件
+https://wordpress.org/plugins/browse/favorites/
+
 ### Scripts n Styles
 自定义每个页面的 CSS，JS
 
@@ -19,8 +22,8 @@ MetaSlider 创建 幻灯片
 - Flexia
 
 ## 列表页 主题
-- Blog Designer
-
+-  Void Elementor Post Grid Addon for Elementor Page builder
+- Essential Grid 
 
 ### Simple Job Board
 招聘 功能
